@@ -21,3 +21,10 @@
 Developed an objective, data-driven strategy to compute tree visibility at a national level in the Netherlands using a novel application of the Viewshed algorithm. This approach not only allowed for the generation of a nationwide tree visibility dataset but also facilitated an in-depth analysis of tree visibility inequality using the weighted GINI index. Furthermore, spatial machine learning was employed to model and explore associations between tree visibility and selected socio-economic variables. The proposed method is reproducible and provides a comprehensive framework for assessing and understanding the spatial patterns of tree visibility at a national scale.
 
 ![Viewshed Discovery at Three Levels](/assets/img/vgvi_three_levels_results.png)
+
+## Projects
+### Gender Representation in English Songs (1960‑2020) 
+
+This project analyzes gender representation in English song lyrics from 1960 to 2020. Using machine learning and semantic analysis, we examined thematic patterns, word associations, and emotional nuances (VAD scores) to uncover biases and differences in how male and female artists portray gender. Our findings reveal significant insights into gender representation in popular music over time.
+
+![Vad Scores Each Gender](/assets/img/vad_scores_each_gender.png)
