@@ -23,7 +23,13 @@ Developed an objective, data-driven strategy to compute tree visibility at a nat
 ![Viewshed Discovery at Three Levels](/assets/img/vgvi_three_levels_results.png)
 
 
-## Projects
+### Gender Representation in English Songs (1960‑2020) 
+
+This project analyzes gender representation in English song lyrics from 1960 to 2020. Using machine learning and semantic analysis, we examined thematic patterns, word associations, and emotional nuances (VAD scores) to uncover biases and differences in how male and female artists portray gender. Our findings reveal significant insights into gender representation in popular music over time.
+
+![Vad Scores](/assets/img/vad_scores_each_gender.png)
+
+
 ### Gender Representation in English Songs (1960‑2020) 
 
 This project was developed in response to a high demand for a comprehensive real estate scraper for the Slovak market. The project leverages Selenium and BeautifulSoup to extract property data from nehnutelnosti.sk, a leading real estate platform in Slovakia. This scraper fills a significant gap in the market, providing users with a valuable tool for gathering property data that was previously unavailable.
