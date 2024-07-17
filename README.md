@@ -30,7 +30,7 @@ This project analyzes gender representation in English song lyrics from 1960 to 
 ![Vad Scores](/assets/img/vad_scores_each_gender.png)
 
 
-### Gender Representation in English Songs (1960‑2020) 
+### Selenium Real Estate Scraper Slovak Market
 
 This project was developed in response to a high demand for a comprehensive real estate scraper for the Slovak market. The project leverages Selenium and BeautifulSoup to extract property data from nehnutelnosti.sk, a leading real estate platform in Slovakia. This scraper fills a significant gap in the market, providing users with a valuable tool for gathering property data that was previously unavailable.
 
