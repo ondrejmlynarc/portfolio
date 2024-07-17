@@ -17,10 +17,12 @@
 
 ## Projects
 ### Tree Visibility in the Netherlands: A Viewshed‑Based Approach and Multiscale Geographically Weighted Regression Modeling
+[Github link here](https://github.com/Spatial-Data-Science-and-GEO-AI-Lab/2.5D-GreenViewIndex-Netherlands)
 
 Developed an objective, data-driven strategy to compute tree visibility at a national level in the Netherlands using a novel application of the Viewshed algorithm. This approach not only allowed for the generation of a nationwide tree visibility dataset but also facilitated an in-depth analysis of tree visibility inequality using the weighted GINI index. Furthermore, spatial machine learning was employed to model and explore associations between tree visibility and selected socio-economic variables. The proposed method is reproducible and provides a comprehensive framework for assessing and understanding the spatial patterns of tree visibility at a national scale.
 
 ![Viewshed Discovery at Three Levels](/assets/img/vgvi_three_levels_results.png)
+
 
 ## Projects
 ### Gender Representation in English Songs (1960‑2020) 
