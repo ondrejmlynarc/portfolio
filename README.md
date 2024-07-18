@@ -37,7 +37,7 @@ This project was developed in response to a high demand for a comprehensive real
 
 The Edinburgh University Guardian Ranking Dashboard is a Tableau-based tool that visualizes the university's performance in the Guardian University Rankings. It allows users to explore trends in overall ranking, student satisfaction, subject rankings, and financial metrics, while also providing comparisons to other universities. I developed this dashboard for university stakeholders, prospective students to better understand the university's position in the UK higher education landscape. 
 
-![Dashboard](/assets/img/dashboard_edinburgh_uni.png)
+![Dashboard](/assets/img/dashboard_edinburghuni.png)
 
 ## Current Readings
 
