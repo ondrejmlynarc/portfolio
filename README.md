@@ -4,7 +4,6 @@
 
 ## Education
 - MSc., Data Science | University of Utrecht, the Netherlands (_May 2023_)
-- MSc., Data Science | University of Utrecht, the Netherlands (May 2023)
 
 ## Work Experience
 **AI Automation Specialist @ Brandsom (_Jan 2024 - Present_)**
@@ -33,3 +32,7 @@ This project analyzes gender representation in English song lyrics from 1960 to 
 This project was developed in response to a high demand for a comprehensive real estate scraper for the Slovak market. The project leverages Selenium and BeautifulSoup to extract property data from nehnutelnosti.sk, a leading real estate platform in Slovakia. This scraper fills a significant gap in the market, providing users with a valuable tool for gathering property data that was previously unavailable.
 
 ![Selenium Scraper](/assets/img/selenium_scraping.png)
+
+## Current Readings
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
