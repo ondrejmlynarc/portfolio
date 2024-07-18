@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, Google Cloud, Tableau
 
 ## Education
--  MSc., Data Science | University of Utrecht, the Netherlands (_May 2023_)
+- MSc., Data Science | University of Utrecht, the Netherlands (_May 2023_)
 
 ## Work Experience
 **AI Automation Specialist @ Brandsom (_Jan 2024 - Present_)**
